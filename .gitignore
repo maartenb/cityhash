@@ -3,6 +3,8 @@ autom4te.cache
 stamp-h1
 config.h
 Makefile
+libtool
+*_unittest*
 
 config.log
 config.status
@@ -15,4 +17,3 @@ config.status
 *.la
 
 test-suite.log
-*_unittest.*
